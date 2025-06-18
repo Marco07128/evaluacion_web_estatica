@@ -10,5 +10,7 @@ h1{
 #Links{
     color: red;
     text-align: center;
+    align-items: center; 
+    justify-content: center;
 }
 
